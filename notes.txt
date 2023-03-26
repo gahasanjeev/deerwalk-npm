@@ -1,0 +1,7 @@
+convert object to JSON
+
+JSON.stringify(data)
+
+
+convert JSON to object
+JSON.parse(data)
