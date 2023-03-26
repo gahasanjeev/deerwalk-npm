@@ -15,6 +15,7 @@ app.get("/download",(req,res)=>{
 })
 
 
+console.log("hello from change")
 const getRandomIndex=()=>{
     return Math.floor(Math.random()*(quotes.length))
 }
